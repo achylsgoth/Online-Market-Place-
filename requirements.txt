@@ -1,0 +1,6 @@
+Django>=5.0
+django-tailwind
+django-browser-reload
+Pillow
+django-crispy-forms
+crispy-tailwind
